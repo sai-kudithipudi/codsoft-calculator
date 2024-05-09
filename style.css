@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #011627;
+    color: #fdfffc;
+    text-align: center;
+    background: url(https://i.pinimg.com/236x/9a/64/97/9a64977074556bc3dd9cc8cde3df8667.jpg) no-repeat center/cover;
+    height: 100vh;
+}
+h1{
+    font-size: 45px;
+}
+
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: black;
+    color: whitesmoke;
+    border-style: none;
+
+}
+
+.btn:hover{
+    background-color:darkred;
+    cursor: pointer;
+}
+
+
